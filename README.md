@@ -8,11 +8,18 @@ COut is an app designed to help users plan outings with their friends. Whether y
 - Two User Roles: COut caters to two types of users: those who come to share their experiences and those who come to plan their trips based on others' experiences.
 ## Getting Started
 To get started with COut, follow these steps:
-1. Clone the repository:
+1. 1. Clone the repository:
  `git clone https://github.com/yourusername/COut1.git`
 2. Set up Firebase:
 - Create a Firebase project at Firebase Console.
 - Enable Firebase Auth and Firestore in your project.
 - Add your Firebase configuration to the Xcode project.
-  
-3. Open the Xcode project, build, and run the app on your iOS device or simulator.
+3.Run the app:
+Open the Xcode project, build, and run the app on your iOS device or simulator.
+##Output/Interface:
+![alt text](https://github.com/[Aadithya-J]/[Cout1]/blob/IMG_5864.PNG?raw=true)
+![alt text](https://github.com/[Aadithya-J]/[Cout1]/blob/IMG_5865.PNG?raw=true)
+![alt text](https://github.com/[Aadithya-J]/[Cout1]/blob/IMG_5866.PNG?raw=true)
+![alt text](https://github.com/[Aadithya-J]/[Cout1]/blob/IMG_5867.PNG?raw=true)
+![alt text](https://github.com/[Aadithya-J]/[Cout1]/blob/IMG_5868.PNG?raw=true)
+![alt text](https://github.com/[Aadithya-J]/[Cout1]/blob/IMG_5869.PNG?raw=true)
