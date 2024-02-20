@@ -16,7 +16,8 @@ To get started with COut, follow these steps:
 - Add your Firebase configuration to the Xcode project.
 3.Run the app:
 Open the Xcode project, build, and run the app on your iOS device or simulator.
-##Output/Interface:
+
+## Output/Interface:
 ![alt text](https://github.com/[Aadithya-J]/[Cout1]/blob/IMG_5864.PNG?raw=true)
 ![alt text](https://github.com/[Aadithya-J]/[Cout1]/blob/IMG_5865.PNG?raw=true)
 ![alt text](https://github.com/[Aadithya-J]/[Cout1]/blob/IMG_5866.PNG?raw=true)
