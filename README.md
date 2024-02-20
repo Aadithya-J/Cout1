@@ -18,7 +18,7 @@ To get started with COut, follow these steps:
 Open the Xcode project, build, and run the app on your iOS device or simulator.
 
 ## Output/Interface:
-![alt text](https://github.com/Aadithya-J/Cout1/blob/main/IMG_5864.PNG?raw=true)
+![alt text](https://github.com/Aadithya-J/Cout1/blob/main/IMG_5864.PNG?raw=true{width=40px height=400px})
 ![alt text](https://github.com/Aadithya-J/Cout1/blob/main/IMG_5865.PNG?raw=true)
 ![alt text](https://github.com/Aadithya-J/Cout1/blob/main/IMG_5866.PNG?raw=true)
 ![alt text](https://github.com/Aadithya-J/Cout1/blob/main/IMG_5867.PNG?raw=true)
